@@ -10,6 +10,5 @@ csharp .NET winform
 
 
 示例：
-原图
-![原图](/README/demo.gif)
+![demo](/README/demo.gif)
 
